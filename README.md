@@ -1,5 +1,3 @@
-
-
 # Sales Opportunity Dashboard – Power BI Project
 
 ## 🔧 Tools & Technologies
