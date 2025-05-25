@@ -84,4 +84,7 @@ The goal of this dashboard project is to provide real-time, actionable insights 
 ## 📌 Tags
 
 `Power BI` `Sales Analytics` `Data Visualization` `Business Intelligence` `KPI Dashboard` `Sales Performance`
+![image](https://github.com/user-attachments/assets/7be4362a-b5e1-41b9-8dd0-b7cf8f36dd0b) 
+![image](https://github.com/user-attachments/assets/41b96017-fa6a-4476-80fd-dd95c1c5e2a7)
+
 
